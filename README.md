@@ -1,49 +1,72 @@
-# Akash-kumar-Gupta
-
 # 👋 Hi, I'm Akash
 
-🎯 **React & 3D Web Developer**  
-I specialize in creating interactive 3D web applications using React, Three.js, and React Three Fiber (R3F). Passionate about turning complex ideas into immersive user experiences.
+🎮 **Game & Frontend Developer**  
+I craft interactive experiences using **React**, **HTML5 Canvas**, **Three.js**, **Unity**, and **Cocos Creator**.  
+From browser games to 3D learning modules — I focus on performance, polish, and user experience.
 
 ---
 
-## 🔧 Tech Stack
+## 💼 Skills & Tools
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+**Web & Game Development**  
+- ⚛️ React, Next.js, JavaScript (ES6+), GSAP  
+- 🎮 HTML5 Game Development (Canvas, Phaser, Pixi.js)  
+- 🕹️ Unity (2D/3D, C# scripting)  
+- 🧩 Cocos Creator (TypeScript, Spine, animations)  
+- 🌐 Firebase, Vercel, GitHub Pages
+
+**3D & Animation**  
+- 🎲 Three.js, React Three Fiber (R3F)  
+- ✨ GSAP (GreenSock Animation Platform)  
+- 📦 GLTF/GLB model loading  
+- 🧭 Camera control, label placement, object interaction
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🔬 [3D Anatomy Viewer](https://3-d-activity-1-public.vercel.app/)
-> Interactive 3D kidney model using GLTF, GSAP camera animations, toggleable labels, and MCQ learning mode.
+### 🧠 [3D Kidney Anatomy Module](https://3-d-activity-1-public.vercel.app/)
+> Interactive 3D medical viewer with model switching, label toggling, and MCQ learning.
 
-- Dynamic camera views & voiceovers
-- Real-time model switching (Kidney, Nephron, Cut-section)
-- R3F + Drei + GSAP for smooth experience
-
----
-
-### 🎮 Tetris-style Word Game
-> Fun & educational game using falling blocks that form Norwegian words.
-
-- Grid logic, mission cards, and score system
-- Real-time keyboard controls
-- Physics-based letter behavior
+- GLTF model rendering with Three.js / R3F
+- Dynamic label system with info popups
+- MCQ popup with animations and score logic
 
 ---
 
-### 🧠 Nephron Flow Simulator
-> Step-by-step 3D animation of nephron anatomy with narration and camera transitions.
+### 🎮 Tetris-style Word Game (HTML5)
+> Falling block puzzle game for forming Norwegian words
 
-- Auto-play simulation using GSAP timelines
-- Label sequencing with camera sync
-- Voiceover control integration
+- Mission cards, real-time scoring
+- Physics-based falling blocks
+- Full mobile and keyboard support
+
+---
+
+### 🔄 Nephron Flow Simulator
+> 3D nephron animation with camera transitions and voiceover playback
+
+- GSAP camera animation between key anatomy labels
+- Voiceover sync and simulation controller
+- User toggle and reset interaction
+
+---
+
+### 🕹️ Unity Projects
+> 2D/3D Unity games with animation, effects, and UI
+
+- Character control & physics
+- Scene switching and audio control
+- Exported for WebGL and Android
+
+---
+
+### 🎯 Cocos Creator Games
+> Cross-platform 2D games with Spine animations and UI flow
+
+- Scene logic using TypeScript
+- Animations with Spine + native timelines
+- Touch & keyboard event handling
 
 ---
 
@@ -53,12 +76,10 @@ I specialize in creating interactive 3D web applications using React, Three.js, 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-- 💼 Freelance available for 3D web projects
-- ✉️ Email: `akashwebdev@gmail.com`
-- 🌐 Portfolio: [3D Module Demo](https://3-d-activity-1-public.vercel.app/)
+- 💼 Open to freelance projects
+- 📧 Email: `akashwebdev@gmail.com`
+- 🌐 Live Demo: [Kidney Viewer](https://3-d-activity-1-public.vercel.app/)
 
----
-
-> 💡 "Build something users love — and make it feel alive with interactivity."
+> “I build fun, functional, and future-ready games & apps.”
