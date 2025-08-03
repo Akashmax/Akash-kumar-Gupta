@@ -1,3 +1,64 @@
 # Akash-kumar-Gupta
 
-# 👋 Hi, I'm Akash  🎯 **React & 3D Web Developer**   I specialize in creating interactive 3D web applications using React, Three.js, and React Three Fiber (R3F). Passionate about turning complex ideas into immersive user experiences.  ---  ## 🔧 Tech Stack  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)  ---  ## 🧩 Featured Projects  ### 🔬 [3D Anatomy Viewer](https://3-d-activity-1-public.vercel.app/) > Interactive 3D kidney model using GLTF, GSAP camera animations, toggleable labels, and MCQ learning mode.  - Dynamic camera views & voiceovers - Real-time model switching (Kidney, Nephron, Cut-section) - R3F + Drei + GSAP for smooth experience  ---  ### 🎮 Tetris-style Word Game > Fun & educational game using falling blocks that form Norwegian words.  - Grid logic, mission cards, and score system - Real-time keyboard controls - Physics-based letter behavior  ---  ### 🧠 Nephron Flow Simulator > Step-by-step 3D animation of nephron anatomy with narration and camera transitions.  - Auto-play simulation using GSAP timelines - Label sequencing with camera sync - Voiceover control integration  ---  ## 📊 GitHub Stats  ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashmax&show_icons=true&theme=tokyonight)  ---  ## 📫 Let's Connect  - 💼 Freelance available for 3D web projects - ✉️ Email: `akashwebdev@gmail.com` - 🌐 Portfolio: [3D Module Demo](https://3-d-activity-1-public.vercel.app/)  ---  > 💡 "Build something users love — and make it feel alive with interactivity."
+# 👋 Hi, I'm Akash
+
+🎯 **React & 3D Web Developer**  
+I specialize in creating interactive 3D web applications using React, Three.js, and React Three Fiber (R3F). Passionate about turning complex ideas into immersive user experiences.
+
+---
+
+## 🔧 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+
+---
+
+## 🧩 Featured Projects
+
+### 🔬 [3D Anatomy Viewer](https://3-d-activity-1-public.vercel.app/)
+> Interactive 3D kidney model using GLTF, GSAP camera animations, toggleable labels, and MCQ learning mode.
+
+- Dynamic camera views & voiceovers
+- Real-time model switching (Kidney, Nephron, Cut-section)
+- R3F + Drei + GSAP for smooth experience
+
+---
+
+### 🎮 Tetris-style Word Game
+> Fun & educational game using falling blocks that form Norwegian words.
+
+- Grid logic, mission cards, and score system
+- Real-time keyboard controls
+- Physics-based letter behavior
+
+---
+
+### 🧠 Nephron Flow Simulator
+> Step-by-step 3D animation of nephron anatomy with narration and camera transitions.
+
+- Auto-play simulation using GSAP timelines
+- Label sequencing with camera sync
+- Voiceover control integration
+
+---
+
+## 📊 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashmax&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Freelance available for 3D web projects
+- ✉️ Email: `akashwebdev@gmail.com`
+- 🌐 Portfolio: [3D Module Demo](https://3-d-activity-1-public.vercel.app/)
+
+---
+
+> 💡 "Build something users love — and make it feel alive with interactivity."
