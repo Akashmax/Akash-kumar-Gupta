@@ -80,6 +80,6 @@ From browser games to 3D learning modules — I focus on performance, polish, an
 
 - 💼 Open to freelance projects
 - 📧 Email: `akashwebdev@gmail.com`
-- 🌐 Live Demo: [Kidney Viewer](https://3-d-activity-1-public.vercel.app/)
+- 🌐 Live Demo: [Animal cells](https://3-d-activity-1-public.vercel.app/)
 
 > “I build fun, functional, and future-ready games & apps.”
