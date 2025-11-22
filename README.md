@@ -1,14 +1,26 @@
 <!-- Banner -->
-<p align="center">
-  <a href="#">
-    <img src="Akashgupta.png" 
-         alt="Banner" 
-         width="100%" 
-         style="border-radius:10px; transition: opacity 0.4s; position:absolute; left:0; top:0;" 
-         onmouseover="this.src='Akashgupta_hover.png';" 
-         onmouseout="this.src='Akashgupta.png';" />
-  </a>
+<p align="center" style="position: relative; display: inline-block;">
+  <img src="Akashgupta.png" 
+       alt="Main Banner" 
+       width="100%" 
+       style="border-radius:10px; display:block;" />
+
+  <img src="Akashgupta_hover.png" 
+       alt="Hover Banner" 
+       width="100%" 
+       style="
+         border-radius:10px;
+         position:absolute;
+         top:0;
+         left:0;
+         opacity:0;
+         transition: opacity 0.4s ease-in-out;
+       "
+       onmouseover="this.style.opacity=1"
+       onmouseout="this.style.opacity=0"
+  />
 </p>
+
 
 <h1 align="center">🚀 Akash Kumar Gupta</h1>
 <h3 align="center">Senior Game Developer | Game Tech Enthusiast | WebGL & 3D Interactive Engineer</h3>
