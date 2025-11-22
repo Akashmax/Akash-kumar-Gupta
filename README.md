@@ -1,24 +1,6 @@
 <!-- Banner -->
-<p align="center" style="position: relative; display: inline-block;">
-  <img src="Akashgupta.png" 
-       alt="Main Banner" 
-       width="100%" 
-       style="border-radius:10px; display:block;" />
-
-  <img src="Akashgupta_hover.png" 
-       alt="Hover Banner" 
-       width="100%" 
-       style="
-         border-radius:10px;
-         position:absolute;
-         top:0;
-         left:0;
-         opacity:0;
-         transition: opacity 0.4s ease-in-out;
-       "
-       onmouseover="this.style.opacity=1"
-       onmouseout="this.style.opacity=0"
-  />
+<p align="center">
+  <img src="/akash_banner_advanced.gif" width="100%" alt="Akash Advanced Banner">
 </p>
 
 
