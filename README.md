@@ -94,7 +94,7 @@ Full multiplayer application:
 ---
 
 ## 🏆 Achievements
-- 🚀 Delivered **20+ games** used by thousands  
+- 🚀 Delivered **100+ games** used by thousands  
 - 🎮 Built **enterprise-level educational games**  
 - 💼 Experience with **global clients**  
 - 🌍 Cross-platform development for Web, Mobile & Desktop  
@@ -105,8 +105,8 @@ Full multiplayer application:
 ## 🔗 Connect With Me
 
 - 🔗 **Portfolio:** _Coming soon_  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/akashmax  
-- 📧 **Email:** akashmax880@gmail.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/akashmax](https://www.linkedin.com/in/akash-gupta-58b690148/)  
+- 📧 **Email:** akashkg233@gmail.com  
 - 🎮 **itch.io:** _Coming soon_  
 
 ---
