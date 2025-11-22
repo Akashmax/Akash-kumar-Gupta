@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/akash_banner_advanced.gif" width="100%" alt="Akash Advanced Banner">
+  <img src="Akashgupta.png" alt="Banner" />
 </p>
-
 
 <h1 align="center">🚀 Akash Kumar Gupta</h1>
 <h3 align="center">Senior Game Developer | Game Tech Enthusiast | WebGL & 3D Interactive Engineer</h3>
