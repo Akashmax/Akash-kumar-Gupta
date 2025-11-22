@@ -132,8 +132,10 @@ A visually stunning interactive 3D portfolio:
 
 ## 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akashmax&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="trophy.png" width="600" alt="GitHub Trophy GIF">
 </p>
+
+
 
 ---
 
